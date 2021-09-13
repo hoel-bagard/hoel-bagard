@@ -11,6 +11,18 @@
 <br>
 
 
+
+<h2>My projects / repos</h2>
+TODO: put better repos here
+
+[Torch utils](https://github.com/hoel-bagard/torch_utils "Torch utils")\
+[Classification-PyTorch](https://github.com/hoel-bagard/Classification-PyTorch "Classification-PyTorch")\
+[Classification-TensorFlow2](https://github.com/hoel-bagard/Classification-TensorFlow2 "Classification-TensorFlow2")
+
+
+<br>
+
+
 <img src="https://user-images.githubusercontent.com/34478245/133010080-e8ffeadf-58a3-4b43-8eef-44a3d961fbd1.gif" align="right">
 <div>
   <h2 align="center"> ~:computer: Tools :computer: ~ </h2>
