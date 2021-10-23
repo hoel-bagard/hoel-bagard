@@ -10,7 +10,8 @@
 <br>
 
 <h2>My projects / repos</h2>
-TODO: put better repos here\
+TODO: put better repos here
+
 [Torch utils](https://github.com/hoel-bagard/torch_utils "Torch utils")\
 [Classification-PyTorch](https://github.com/hoel-bagard/Classification-PyTorch "Classification-PyTorch")\
 [Classification-TensorFlow2](https://github.com/hoel-bagard/Classification-TensorFlow2 "Classification-TensorFlow2")
