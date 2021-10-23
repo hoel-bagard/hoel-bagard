@@ -12,7 +12,7 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/34478245/133010080-e8ffeadf-58a3-4b43-8eef-44a3d961fbd1.gif" align="right" width="600px" height="auto">
+<img src="https://user-images.githubusercontent.com/34478245/133010080-e8ffeadf-58a3-4b43-8eef-44a3d961fbd1.gif" align="right" width="500px" height="auto">
 <div>
   <h2 align="center"> ~:computer: Tools :computer: ~ </h2>
   <p align="center">
