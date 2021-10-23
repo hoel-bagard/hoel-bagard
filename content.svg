@@ -1,0 +1,104 @@
+<svg fill="none" viewBox="0 0 1000 1500" width="1000" height="1500" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+       p {
+         font-size: 20px;
+         text-shadow: 0 1px 0 #efefef;
+         animation: 5s ease 0s normal forwards 1 fadeIn;
+       }
+      </style>
+
+      <div class="container">
+        <h1 align="center"> Welcome to my github!
+          <img src="https://user-images.githubusercontent.com/34478245/133010447-6db0ffae-5e61-49f3-a158-1ad768929078.gif" width="30px"></img>
+        </h1>
+
+        <h2>About me</h2>
+        <ul>
+          <li><b>Location: </b> Japan, Tokyo.</li>
+          <li><b>Technical interests: </b> Following advances in ML, coding in general and more recently custom keyboards :keyboard:</li>
+          <li><b>Other hobbies: </b> Hiking, mangas/anime, video games</li>
+        </ul>
+
+        <br></br>
+
+        <h2>My projects / repos</h2>
+        TODO: put better repos here
+        <ul>
+          <li><a href="https://github.com/hoel-bagard/torch_utils">Torch utils</a></li>
+          <li><a href="https://github.com/hoel-bagard/Classification-PyTorch">Classification-PyTorch</a></li>
+          <li><a href="https://github.com/hoel-bagard/Classification-TensorFlow2">Classification-TensorFlow2</a></li>
+        </ul>
+
+
+        <table>
+          <tr>
+            <td>
+              <div>
+                <h2 align="center"> ~:computer: Tools :computer: ~ </h2>
+                <p align="center">
+                  Web / GUIs<br></br>
+                  <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&amp;logo=Electron&amp;logoColor=white"/>
+                  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&amp;style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E"/>
+                  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&amp;logo=angular&amp;logoColor=white"/>
+                </p>
+
+                <p align="center">
+                  Machine Learning<br></br>
+                  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&amp;logo=python&amp;logoColor=ffdd54"/>
+                  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&amp;logo=TensorFlow&amp;logoColor=white"/>
+                  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&amp;logo=PyTorch&amp;logoColor=white"/>
+                  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&amp;logo=opencv&amp;logoColor=white"/>
+                </p>
+
+                <p align="center">
+                  Simulation<br></br>
+                  <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&amp;logo=godot-engine"/>
+                  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&amp;logo=unity&amp;logoColor=white"/>
+                </p>
+
+                <p align="center">
+                  Other<br></br>
+                  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white"/>
+                  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&amp;logoColor=fff&amp;style=for-the-badge"/>
+                  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&amp;style=for-the-badge&amp;logo=git&amp;logoColor=white"/>
+                  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white"/>
+                  <img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&amp;style=for-the-badge&amp;logo=gnu-emacs&amp;logoColor=white"/>
+                </p>
+              </div>
+            </td>
+            <td>
+              <img src="https://user-images.githubusercontent.com/34478245/133010080-e8ffeadf-58a3-4b43-8eef-44a3d961fbd1.gif" align="right" width="500px" height="auto"></img>
+            </td>
+          </tr>
+        </table>
+
+        <br></br>
+
+        <h2 align="center"> :memo: ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ :memo: </h2>
+        <div align="center">
+          <a href="https://www.linkedin.com/in/ho%C3%ABl-bagard-b4156a109/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&amp;style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></img>
+          </a>
+          <div>
+            <img src="https://user-images.githubusercontent.com/34478245/133010664-9648f00a-cfbf-46f7-baeb-f409043b153a.gif"></img>
+          </div>
+        </div>
+
+        <br></br>
+
+        <div align="center">
+          <p>
+          <i>
+          Random dev joke for you! (create your own by clicking here ↓)
+          </i>
+        </p>
+          <a href="https://readme-jokes.vercel.app">
+          <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&amp;textColor=%2306d6a0&amp;aColor=%2306d6a0&amp;borderColor=%2306d6a0" alt="README Jokes"></img>
+          </a>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
