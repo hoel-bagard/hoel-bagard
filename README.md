@@ -11,8 +11,9 @@
 <br>
 
 
-
-<img src="https://user-images.githubusercontent.com/34478245/133010080-e8ffeadf-58a3-4b43-8eef-44a3d961fbd1.gif" align="right" width="500px" height="auto">
+<table border="0px">
+  <tr>
+    <td>
 <div>
   <h2 align="center"> ~:computer: Tools :computer: ~ </h2>
   <p align="center">
@@ -45,6 +46,16 @@
     <img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white"/>
   </p>
 </div>
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/34478245/133010080-e8ffeadf-58a3-4b43-8eef-44a3d961fbd1.gif" align="right" width="500px" height="auto">
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 
 <br>
