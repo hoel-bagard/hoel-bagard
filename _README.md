@@ -48,12 +48,15 @@
 </div>
     </td>
     <td>
-      <img src="https://user-images.githubusercontent.com/34478245/133010080-e8ffeadf-58a3-4b43-8eef-44a3d961fbd1.gif" align="right" width="500px" height="auto">
+      <p align="center">
+          <img src="https://github-readme-stats.vercel.app/api?username=hoel-bagard&count_private=true&theme=tokyonight"/>
+      </p>
+      <p align="center">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoel-bagard&layout=compact&langs_count=4&theme=tokyonight"/>
+      </p>
     </td>
   </tr>
 </table>
-
-
 <br>
 
 
