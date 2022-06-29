@@ -1,4 +1,4 @@
-<h1 align="center"> Welcome to my github!  <img src="https://user-images.githubusercontent.com/34478245/133010447-6db0ffae-5e61-49f3-a158-1ad768929078.gif" width="30px"> </h1>
+<h1 align="center"> Welcome to my github! </h1>
 
 <h2>About me</h2>
 <ul>
@@ -59,7 +59,6 @@
 </table>
 <br>
 
-<h2 align="center"> :memo: ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ :memo: </h2>
 <div align="center">
   <a href="https://linkedin.com/in/hoël-bagard-b4156a109/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
