@@ -3,8 +3,8 @@
 <h2>About me</h2>
 <ul>
   <li><b>Location: </b> Japan, Tokyo.</li>
-  <li><b>Technical interests: </b> Following advances in ML, coding in general and more recently custom keyboards :keyboard:</li>
-  <li><b>Other hobbies: </b> Hiking, mangas/anime, video games</li>
+  <li><b>Technical interests: </b> Following advances in ML and programming in general :keyboard:</li>
+  <li><b>Other hobbies: </b> Hiking, mangas, video games</li>
 </ul>
 
 
@@ -57,6 +57,8 @@
     </td>
   </tr>
 </table>
+
+<!---
 <br>
 
 <div align="center">
@@ -67,6 +69,7 @@
     <img src="https://user-images.githubusercontent.com/34478245/133010664-9648f00a-cfbf-46f7-baeb-f409043b153a.gif">
   </div>
 </div>
+-->
 
 </br>
 
