@@ -72,6 +72,21 @@
 </div>
 -->
 
+<details>
+<summary>More stats badges</summary>
+
+<!-- Note: Could use profile-summary-card-output for slightly different output (see https://github.com/hoel-bagard/hoel-bagard/tree/hoel/profile-summary-card-output/profile-summary-card-output/github_dark) -->
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoel-bagard&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hoel-bagard&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hoel-bagard&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hoel-bagard&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hoel-bagard&theme=github_dark&utcOffset=9"/>
+</p>
+
+</details>
+
 </br>
 
 <div align="center"
