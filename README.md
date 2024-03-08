@@ -83,8 +83,10 @@ I like to contribute to open source projects on my free time, mainly in:
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoel-bagard&theme=github_dark"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hoel-bagard&theme=github_dark"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=hoel-bagard&count_private=true&theme=tokyonight"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hoel-bagard&theme=github_dark&utcOffset=9"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hoel-bagard&count_private=true&theme=tokyonight"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoel-bagard&layout=compact&langs_count=4&theme=tokyonight"/>
 </p>
 
@@ -92,7 +94,7 @@ I like to contribute to open source projects on my free time, mainly in:
 
 </br>
 
-<div align="center"
+<div align="center">
   <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
   <a href="https://readme-jokes.vercel.app">
     <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
