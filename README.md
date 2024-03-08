@@ -18,7 +18,7 @@ I like to contribute to open source projects on my free time, mainly in:
   <tr>
     <td>
 <div>
-  <h2 align="center"> ~:computer: Tools :computer: ~ </h2>
+  <h2 align="center"> ~ :computer: Tools :computer: ~ </h2>
   <p align="center">
     Machine Learning</br>
     <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -53,10 +53,10 @@ I like to contribute to open source projects on my free time, mainly in:
     </td>
     <td>
       <p align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=hoel-bagard&count_private=true&theme=tokyonight"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hoel-bagard&theme=github_dark"/>
       </p>
       <p align="center">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoel-bagard&layout=compact&langs_count=4&theme=tokyonight"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hoel-bagard&theme=github_dark"/>
       </p>
     </td>
   </tr>
@@ -83,9 +83,9 @@ I like to contribute to open source projects on my free time, mainly in:
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoel-bagard&theme=github_dark"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hoel-bagard&theme=github_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hoel-bagard&theme=github_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hoel-bagard&theme=github_dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hoel-bagard&count_private=true&theme=tokyonight"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hoel-bagard&theme=github_dark&utcOffset=9"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoel-bagard&layout=compact&langs_count=4&theme=tokyonight"/>
 </p>
 
 </details>
