@@ -9,7 +9,7 @@
 
 I like to contribute to open source projects on my free time, mainly in:
 - [ruff](https://github.com/astral-sh/ruff/pulls?q=is%3Amerged+is%3Apr+author%3Ahoel-bagard+), where I [added the pycodestyle blank line(s) rules](https://github.com/astral-sh/ruff/pull/9266).
-- [typeshed](https://github.com/python/typeshed/pulls?q=is%3Amerged+is%3Apr+author%3Ahoel-bagard+), where I added the stubs for [pycocotools](https://github.com/python/typeshed/pull/9086) or [TensorFlow's Keras Model](https://github.com/python/typeshed/pull/11334).
+- [typeshed](https://github.com/python/typeshed/pulls?q=is%3Amerged+is%3Apr+author%3Ahoel-bagard+), where I added the stubs for [pycocotools](https://github.com/python/typeshed/pull/9086) and [TensorFlow's Keras Model](https://github.com/python/typeshed/pull/11334).
 
 <br>
 
