@@ -5,14 +5,15 @@
   <li><b>Location: </b> Japan, Tokyo.</li>
   <li><b>Technical interests: </b> Following advances in ML and programming in general :keyboard:</li>
   <li><b>Other hobbies: </b> Hiking, mangas, video games</li>
+  <li><a href="https://github.com/hoel-bagard-hy">Hitachi GitHub account</a></li>
 </ul>
 
 I like to contribute to open source projects on my free time, mainly in:
+
 - [ruff](https://github.com/astral-sh/ruff/pulls?q=is%3Amerged+is%3Apr+author%3Ahoel-bagard+), where I [added the pycodestyle blank line(s) rules](https://github.com/astral-sh/ruff/pull/9266).
 - [typeshed](https://github.com/python/typeshed/pulls?q=is%3Amerged+is%3Apr+author%3Ahoel-bagard+), where I added the stubs for [pycocotools](https://github.com/python/typeshed/pull/9086) and [TensorFlow's Keras Model](https://github.com/python/typeshed/pull/11334).
 
 <br>
-
 
 <table border="0px">
   <tr>
@@ -56,9 +57,10 @@ I like to contribute to open source projects on my free time, mainly in:
           <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hoel-bagard&theme=github_dark"/>
       </p>
       <p align="center">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hoel-bagard&theme=github_dark"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hoel-bagard&theme=github_dark"/>
       </p>
     </td>
+
   </tr>
 </table>
 
@@ -82,7 +84,7 @@ I like to contribute to open source projects on my free time, mainly in:
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoel-bagard&theme=github_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hoel-bagard&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hoel-bagard&theme=github_dark"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hoel-bagard&theme=github_dark&utcOffset=9"/>
 </p>
 <p align="center">
